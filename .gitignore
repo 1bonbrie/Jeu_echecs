@@ -1,0 +1,66 @@
+# Fichiers générés par Visual Studio
+*.obj
+*.pdb
+*.idb
+*.dll
+*.exe
+*.ilk
+*.exp
+*.lib
+*.res
+*.pch
+*.ipch
+*.log
+*.tlog
+*.lastbuildstate
+*.iobj
+*.ipdb
+*.recipe
+
+# Dossiers de build
+x64/
+Debug/
+Release/
+bin/
+obj/
+
+# Fichiers Visual Studio
+*.vcxproj.user
+*.suo
+*.user
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+
+# Fichiers Qt générés
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+*.qm
+
+# Dossiers temporaires
+.vs/
+.vscode/
+.git/
+
+# Fichiers système
+Thumbs.db
+.DS_Store
+
+# Fichiers de test générés
+TestResults/
+
+# CMake (si utilisé)
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Autres fichiers temporaires
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
